@@ -1,0 +1,509 @@
+{
+ "updated": 1795222388,
+ "chains": [
+  {
+   "key": "robinhood",
+   "name": "Robinhood Chain",
+   "explorer": "https://robinhoodchain.blockscout.com",
+   "router": "0x2F2804fad735a38015650f32f95Ad5E08D6B3eE5",
+   "swaps": 33,
+   "swaps24h": 3,
+   "usdAll": 685.2892199597659,
+   "usd7d": 685.2892199597659,
+   "usd24h": 4.994293000000001,
+   "first": 1794682834,
+   "unpriced": 0,
+   "ok": true
+  },
+  {
+   "key": "elysium",
+   "name": "Elysium",
+   "explorer": "https://elysium.kinetiq.xyz",
+   "router": "0x104752D50ef893da579Ad813918269e09Ea17dbA",
+   "swaps": 2,
+   "swaps24h": 0,
+   "usdAll": 1.390826,
+   "usd7d": 0,
+   "usd24h": 0,
+   "first": 1794488852,
+   "unpriced": 0,
+   "ok": true
+  }
+ ],
+ "days": [
+  {
+   "date": "2026-11-21",
+   "chains": {
+    "robinhood": {
+     "swaps": 0,
+     "usd": 0
+    },
+    "elysium": {
+     "swaps": 0,
+     "usd": 0
+    }
+   }
+  },
+  {
+   "date": "2026-11-20",
+   "chains": {
+    "robinhood": {
+     "swaps": 3,
+     "usd": 4.994293
+    },
+    "elysium": {
+     "swaps": 0,
+     "usd": 0
+    }
+   }
+  },
+  {
+   "date": "2026-11-19",
+   "chains": {
+    "robinhood": {
+     "swaps": 1,
+     "usd": 50.0009
+    },
+    "elysium": {
+     "swaps": 0,
+     "usd": 0
+    }
+   }
+  },
+  {
+   "date": "2026-11-18",
+   "chains": {
+    "robinhood": {
+     "swaps": 14,
+     "usd": 320.4177028112373
+    },
+    "elysium": {
+     "swaps": 0,
+     "usd": 0
+    }
+   }
+  },
+  {
+   "date": "2026-11-17",
+   "chains": {
+    "robinhood": {
+     "swaps": 12,
+     "usd": 166.21671014852853
+    },
+    "elysium": {
+     "swaps": 0,
+     "usd": 0
+    }
+   }
+  },
+  {
+   "date": "2026-11-16",
+   "chains": {
+    "robinhood": {
+     "swaps": 1,
+     "usd": 140
+    },
+    "elysium": {
+     "swaps": 0,
+     "usd": 0
+    }
+   }
+  },
+  {
+   "date": "2026-11-15",
+   "chains": {
+    "robinhood": {
+     "swaps": 0,
+     "usd": 0
+    },
+    "elysium": {
+     "swaps": 0,
+     "usd": 0
+    }
+   }
+  },
+  {
+   "date": "2026-11-14",
+   "chains": {
+    "robinhood": {
+     "swaps": 2,
+     "usd": 3.659614
+    },
+    "elysium": {
+     "swaps": 0,
+     "usd": 0
+    }
+   }
+  },
+  {
+   "date": "2026-11-13",
+   "chains": {
+    "robinhood": {
+     "swaps": 0,
+     "usd": 0
+    },
+    "elysium": {
+     "swaps": 0,
+     "usd": 0
+    }
+   }
+  },
+  {
+   "date": "2026-11-12",
+   "chains": {
+    "robinhood": {
+     "swaps": 0,
+     "usd": 0
+    },
+    "elysium": {
+     "swaps": 2,
+     "usd": 1.390826
+    }
+   }
+  }
+ ],
+ "recent": [
+  {
+   "chain": "robinhood",
+   "hash": "0x9d44d972b428ce35e16d2f6001e9e4461b1823d0ceed799ff5fb2a1248d752c3",
+   "time": 1795212378,
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "symIn": "ETH",
+   "symOut": "USDG",
+   "amountIn": 0.0006,
+   "amountOut": 0.969839,
+   "usd": 0.969839
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x66d6fccc251cde92471137459ecef4a602b779af8ef3555f8e16f1c6594832a4",
+   "time": 1795188993,
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "symIn": "ETH",
+   "symOut": "USDG",
+   "amountIn": 5e-06,
+   "amountOut": 0.008606,
+   "usd": 0.008606
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x10c9d315141e6d02506b39aba59e3d2e59b1d0e18e41cc605db150bfbad30a77",
+   "time": 1795175886,
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "symIn": "ETH",
+   "symOut": "USDG",
+   "amountIn": 0.0023,
+   "amountOut": 4.015848,
+   "usd": 4.015848
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x7d4d6a58c1a59a4162165bc4be857db7431038a8d5a72ce46e797fef3829470d",
+   "time": 1795059874,
+   "tokenIn": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "tokenOut": "0x0000000000000000000000000000000000000000",
+   "symIn": "USDG",
+   "symOut": "ETH",
+   "amountIn": 50.0009,
+   "amountOut": 0.028088917191969803,
+   "usd": 50.0009
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x83beb70f71cc77271ef7c5615b74edba42412f2329974bd1d185bd09e7c7c26a",
+   "time": 1795025455,
+   "tokenIn": "0x13E6993417616De724F2b337D65063f229e96718",
+   "tokenOut": "0x0000000000000000000000000000000000000000",
+   "symIn": "STOA",
+   "symOut": "ETH",
+   "amountIn": 35458.60894734265,
+   "amountOut": 0.000722820224851064,
+   "usd": 1.1733229897310635
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x664cc60d8b69f4ca297cad690743fe70d8a4b9bf618b256e87a1925dbdc0280a",
+   "time": 1795002333,
+   "tokenIn": "0x51250B135174Ca09450EC01c4afF73CF69DBb590",
+   "tokenOut": "0x0000000000000000000000000000000000000000",
+   "symIn": "NOVAAI",
+   "symOut": "ETH",
+   "amountIn": 3.9243,
+   "amountOut": 0.000978963757675879,
+   "usd": 1.5891097723936742
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0xac56bc9ed618e7d64a431e91d844e2afad52809decb2b2c0aac9bbab1587603b",
+   "time": 1795002163,
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x51250B135174Ca09450EC01c4afF73CF69DBb590",
+   "symIn": "ETH",
+   "symOut": "NOVAAI",
+   "amountIn": 0.001,
+   "amountOut": 3.924309946114185,
+   "usd": 1.623257
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x3e5a29c927084cb10bed33e18c950034ba1c686f9b364a53b2472696b1823d33",
+   "time": 1794994557,
+   "tokenIn": "0x1DD577f4C1b9A201cB099Af9Af74DcAc012395c9",
+   "tokenOut": "0x13E6993417616De724F2b337D65063f229e96718",
+   "symIn": "STOA",
+   "symOut": "STOA",
+   "amountIn": 21446042.107423544,
+   "amountOut": 1465119.0462319017,
+   "usd": 72.86037016911247
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x14ce57e2e7445666611fa7acfe2bc378cdd370bbaae103d3c67b05cf1d8e3497",
+   "time": 1794994323,
+   "tokenIn": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "tokenOut": "0x13E6993417616De724F2b337D65063f229e96718",
+   "symIn": "USDG",
+   "symOut": "STOA",
+   "amountIn": 1,
+   "amountOut": 22263.7735138482,
+   "usd": 1
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x80f8501dea3731456772ac5cc5745f56fd54b500716e1b0355171fc335a8708d",
+   "time": 1794994196,
+   "tokenIn": "0x13E6993417616De724F2b337D65063f229e96718",
+   "tokenOut": "0x1DD577f4C1b9A201cB099Af9Af74DcAc012395c9",
+   "symIn": "STOA",
+   "symOut": "STOA",
+   "amountIn": 1642955.9999999998,
+   "amountOut": 21446042.107423544,
+   "usd": 81.70420187999999
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0xc87790397ecf154ba26c7a8c696fcf2ef4870e14cbd3722685132641176b0752",
+   "time": 1794993583,
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "symIn": "ETH",
+   "symOut": "USDG",
+   "amountIn": 0.0013,
+   "amountOut": 2.352476,
+   "usd": 2.352476
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0xfe684cb1db29c942038b21216a155cab77436ca70711329719483c25dac14865",
+   "time": 1794988244,
+   "tokenIn": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "tokenOut": "0x0000000000000000000000000000000000000000",
+   "symIn": "USDG",
+   "symOut": "ETH",
+   "amountIn": 101.23,
+   "amountOut": 0.05578850679078842,
+   "usd": 101.23
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x8a8a15324c1c6b0bddfeca8d24abefcd48ea4cd046ed8b9cb2615ae90fd3653b",
+   "time": 1794988205,
+   "tokenIn": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
+   "tokenOut": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "symIn": "SPCX",
+   "symOut": "USDG",
+   "amountIn": 0.3533,
+   "amountOut": 50.406404,
+   "usd": 50.406404
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0xbcabb8d531294d57aeee8c69b5d1411b311bf28332b7658551674f176b9dbea9",
+   "time": 1794979506,
+   "tokenIn": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "tokenOut": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "symIn": "USDG",
+   "symOut": "GOOGL",
+   "amountIn": 0.2,
+   "amountOut": 0.000709590836815329,
+   "usd": 0.2
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0xfcb88f89df4580d8a6335b5b0b9824c712d1f355eed900b0248743e0b1626e78",
+   "time": 1794971608,
+   "tokenIn": "0x13E6993417616De724F2b337D65063f229e96718",
+   "tokenOut": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "symIn": "STOA",
+   "symOut": "USDG",
+   "amountIn": 27361.504129846286,
+   "amountOut": 1.38792,
+   "usd": 1.38792
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x7bda67211ec49c91809fb6617e10ac90124608e271a0181a272ff788f4b8764f",
+   "time": 1794971493,
+   "tokenIn": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "tokenOut": "0x13E6993417616De724F2b337D65063f229e96718",
+   "symIn": "USDG",
+   "symOut": "STOA",
+   "amountIn": 1.469054,
+   "amountOut": 27361.504129846286,
+   "usd": 1.469054
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x59b1667ce2a06ed0e1f31ff69c0504a120ef4efa502db94cd9f804fb8568073c",
+   "time": 1794967648,
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "symIn": "ETH",
+   "symOut": "USDG",
+   "amountIn": 0.001,
+   "amountOut": 1.79833,
+   "usd": 1.79833
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x680e21b9bfaad21d19812c3bb72329e019330de5402fea7ffb67f57808bf2f10",
+   "time": 1794962561,
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x13E6993417616De724F2b337D65063f229e96718",
+   "symIn": "ETH",
+   "symOut": "STOA",
+   "amountIn": 0.001,
+   "amountOut": 35458.60894734265,
+   "usd": 1.623257
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x752853adc84850fbdf1f395adaa0cbf344a09a5f64a63d3dfbf34f4d3dda8b53",
+   "time": 1794959781,
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x13E6993417616De724F2b337D65063f229e96718",
+   "symIn": "ETH",
+   "symOut": "STOA",
+   "amountIn": 0.0021,
+   "amountOut": 72584.75849777261,
+   "usd": 3.4088396999999993
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0xf69abb4d0c46ce919a41ede50bab073c8ab2e8fffdace10bcb528091b2706c64",
+   "time": 1794949287,
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "symIn": "ETH",
+   "symOut": "USDG",
+   "amountIn": 5e-05,
+   "amountOut": 0.090283,
+   "usd": 0.090283
+  }
+ ],
+ "largest24h": [
+  {
+   "chain": "robinhood",
+   "hash": "0x10c9d315141e6d02506b39aba59e3d2e59b1d0e18e41cc605db150bfbad30a77",
+   "time": 1795175886,
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "symIn": "ETH",
+   "symOut": "USDG",
+   "amountIn": 0.0023,
+   "amountOut": 4.015848,
+   "usd": 4.015848
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x9d44d972b428ce35e16d2f6001e9e4461b1823d0ceed799ff5fb2a1248d752c3",
+   "time": 1795212378,
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "symIn": "ETH",
+   "symOut": "USDG",
+   "amountIn": 0.0006,
+   "amountOut": 0.969839,
+   "usd": 0.969839
+  },
+  {
+   "chain": "robinhood",
+   "hash": "0x66d6fccc251cde92471137459ecef4a602b779af8ef3555f8e16f1c6594832a4",
+   "time": 1795188993,
+   "tokenIn": "0x0000000000000000000000000000000000000000",
+   "tokenOut": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+   "symIn": "ETH",
+   "symOut": "USDG",
+   "amountIn": 5e-06,
+   "amountOut": 0.008606,
+   "usd": 0.008606
+  }
+ ],
+ "topBought24h": [],
+ "referrers": [],
+ "traders": {
+  "weekStart": 1794787200,
+  "list": [
+   {
+    "address": "0xcb7b9684293647a127fe6700914aff20e3b6cb35",
+    "swaps": 5,
+    "usd": 352.461858
+   },
+   {
+    "address": "0x8b624f80fba8fc8bdabfe4de281fc9e06b58241f",
+    "swaps": 3,
+    "usd": 294.5645720491125
+   },
+   {
+    "address": "0xa0eb8754d83116ae0d987c520de64b2c56f042fc",
+    "swaps": 2,
+    "usd": 4.985687
+   },
+   {
+    "address": "0x0c3fd41c15b49a38f94d2e8f075e78296e93bd62",
+    "swaps": 1,
+    "usd": 3.4088396999999993
+   },
+   {
+    "address": "0x30a966cee23a0baaa15d344d2e42850e3345df09",
+    "swaps": 2,
+    "usd": 3.212366772393674
+   },
+   {
+    "address": "0x76915e454398a03ca19e357dcd2594c8af423ffc",
+    "swaps": 1,
+    "usd": 3.203122
+   },
+   {
+    "address": "0x78691e164d33992707466f5568ee1da86270cb37",
+    "swaps": 2,
+    "usd": 3.1761334485284785
+   },
+   {
+    "address": "0x46c8d7ea1301e580193f887b7d73f1694954fc91",
+    "swaps": 2,
+    "usd": 2.856974
+   },
+   {
+    "address": "0xbfa7feaabd1448bd5611679d72f4aaa966915492",
+    "swaps": 2,
+    "usd": 2.7965799897310637
+   },
+   {
+    "address": "0x9fb609715e18583b70e17e6c3f531cff2657db44",
+    "swaps": 1,
+    "usd": 2.352476
+   }
+  ]
+ },
+ "total": {
+  "swaps": 35,
+  "usdAll": 686.6800459597655,
+  "usd7d": 685.2892199597654,
+  "usd24h": 4.994293
+ },
+ "method": "One Routed event per settled swap on each Stoa router (a failed swap reverts and emits nothing). Each swap counts once, valued on its stablecoin side, else on its gas-token side at the router's current quote, else at DexScreener's current price."
+}
