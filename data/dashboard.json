@@ -1,6 +1,6 @@
 {
- "generatedAt": 1795222388,
- "generatedAtUTC": "2026-11-21 00:53:08 UTC",
+ "generatedAt": 1795223625,
+ "generatedAtUTC": "2026-11-21 01:13:45 UTC",
  "chain": {
   "name": "Robinhood Chain",
   "chainId": 4663,
@@ -10,13 +10,13 @@
  "router": "0x2F2804fad735a38015650f32f95Ad5E08D6B3eE5",
  "referrer": "0x61c5555660EDb169B4b3abF3512818EE76A72f64",
  "referralLink": "https://stoadex.com/trade?ref=0x61c5555660EDb169B4b3abF3512818EE76A72f64",
- "ethPriceUsd": 1623.2572,
+ "ethPriceUsd": 1621.1794999999997,
  "totals": {
   "swaps": 33,
-  "usd": 685.29,
+  "usd": 685.27,
   "usd24h": 4.99,
   "swaps24h": 3,
-  "usd7d": 685.29,
+  "usd7d": 685.27,
   "swaps7d": 33,
   "traders": 19,
   "unpriced": 0,
@@ -25,11 +25,11 @@
  },
  "reconciliation": {
   "stoaStatsSwaps": 33,
-  "stoaStatsUsdAll": 685.2892199597659,
+  "stoaStatsUsdAll": 685.2716067802253,
   "stoaStatsUsd24h": 4.994293000000001,
-  "stoaStatsUsd7d": 685.2892199597659,
+  "stoaStatsUsd7d": 685.2716067802253,
   "dashboardSwaps": 33,
-  "dashboardUsd": 685.29,
+  "dashboardUsd": 685.27,
   "note": "Swap count matches Stoa's /api/stats exactly. USD differs only by ETH-price drift: Stoa values the ETH side at the quote at build time; this build uses the live quote at generation time."
  },
  "days": [
@@ -46,12 +46,12 @@
   {
    "date": "2026-11-17",
    "swaps": 12,
-   "usd": 166.21671053985693
+   "usd": 166.2078778039729
   },
   {
    "date": "2026-11-18",
    "swaps": 14,
-   "usd": 320.4177028112372
+   "usd": 320.4092990212401
   },
   {
    "date": "2026-11-19",
@@ -69,7 +69,7 @@
    "address": "0x8965140fb51b2e99a0cd31a0e99eae01d36517b8",
    "name": "Uniswap V4 (adapter v1)",
    "swaps": 19,
-   "usd": 306.4354171819817,
+   "usd": 306.4181806561005,
    "leg2": 5,
    "note": "first V4 adapter; removed from router 2026-11-20 (block 118317719)"
   },
@@ -138,12 +138,12 @@
   {
    "address": "0x0c3fd41c15b49a38f94d2e8f075e78296e93bd62",
    "swaps": 1,
-   "usd": 3.4088396999999993
+   "usd": 3.4040722799999994
   },
   {
    "address": "0x30a966cee23a0baaa15d344d2e42850e3345df09",
    "swaps": 2,
-   "usd": 3.212366772393674
+   "usd": 3.2078741288709987
   },
   {
    "address": "0x76915e454398a03ca19e357dcd2594c8af423ffc",
@@ -153,7 +153,7 @@
   {
    "address": "0x78691e164d33992707466f5568ee1da86270cb37",
    "swaps": 2,
-   "usd": 3.1761338398569556
+   "usd": 3.1720685239728974
   },
   {
    "address": "0x46c8d7ea1301e580193f887b7d73f1694954fc91",
@@ -163,7 +163,7 @@
   {
    "address": "0xbfa7feaabd1448bd5611679d72f4aaa966915492",
    "swaps": 2,
-   "usd": 2.7965799897310637
+   "usd": 2.7926688432566067
   }
  ],
  "topPairs": [
@@ -200,22 +200,22 @@
   {
    "pair": "ETH \u2192 STOA",
    "swaps": 3,
-   "usd": 6.655353899999999
+   "usd": 6.6462385799999995
   },
   {
    "pair": "STOA \u2192 ETH",
    "swaps": 2,
-   "usd": 2.7261996295880193
+   "usd": 2.722571067229504
   },
   {
    "pair": "ETH \u2192 NOVAAI",
    "swaps": 1,
-   "usd": 1.623257
+   "usd": 1.6209867999999998
   },
   {
    "pair": "NOVAAI \u2192 ETH",
    "swaps": 1,
-   "usd": 1.5891097723936742
+   "usd": 1.5868873288709986
   },
   {
    "pair": "STOA \u2192 USDG",
@@ -345,7 +345,7 @@
    "venue2": "0x0000000000000000000000000000000000000000",
    "venue1Name": "Uniswap V4 (adapter v1)",
    "venue2Name": "\u2014",
-   "usd": 1.1733229897310635,
+   "usd": 1.1716820432566066,
    "usdMethod": "stoa-stats-api"
   },
   {
@@ -367,7 +367,7 @@
    "venue2": "0x0000000000000000000000000000000000000000",
    "venue1Name": "Uniswap V4 (adapter v1)",
    "venue2Name": "\u2014",
-   "usd": 1.5891097723936742,
+   "usd": 1.5868873288709986,
    "usdMethod": "stoa-stats-api"
   },
   {
@@ -389,7 +389,7 @@
    "venue2": "0x0000000000000000000000000000000000000000",
    "venue1Name": "Uniswap V4 (adapter v1)",
    "venue2Name": "\u2014",
-   "usd": 1.623257,
+   "usd": 1.6209867999999998,
    "usdMethod": "stoa-stats-api"
   },
   {
@@ -631,7 +631,7 @@
    "venue2": "0x0000000000000000000000000000000000000000",
    "venue1Name": "Uniswap V4 (adapter v1)",
    "venue2Name": "\u2014",
-   "usd": 1.623257,
+   "usd": 1.6209867999999998,
    "usdMethod": "stoa-stats-api"
   },
   {
@@ -653,7 +653,7 @@
    "venue2": "0x0000000000000000000000000000000000000000",
    "venue1Name": "Uniswap V4 (adapter v1)",
    "venue2Name": "\u2014",
-   "usd": 3.4088396999999993,
+   "usd": 3.4040722799999994,
    "usdMethod": "stoa-stats-api"
   },
   {
@@ -829,7 +829,7 @@
    "venue2": "0x0000000000000000000000000000000000000000",
    "venue1Name": "Uniswap V4 (adapter v1)",
    "venue2Name": "\u2014",
-   "usd": 1.5528766398569556,
+   "usd": 1.5508890239728976,
    "usdMethod": "ETH side x current quote"
   },
   {
@@ -851,7 +851,7 @@
    "venue2": "0x0000000000000000000000000000000000000000",
    "venue1Name": "Uniswap V4 (adapter v1)",
    "venue2Name": "\u2014",
-   "usd": 1.6232572,
+   "usd": 1.6211794999999998,
    "usdMethod": "ETH side x current quote"
   },
   {

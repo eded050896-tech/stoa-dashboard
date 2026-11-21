@@ -2,8 +2,8 @@
  "router": "0x2F2804fad735a38015650f32f95Ad5E08D6B3eE5",
  "chainId": 4663,
  "fromBlock": 111190808,
- "toBlock": 119482606,
- "fetchedAt": 1795222097,
+ "toBlock": 119496506,
+ "fetchedAt": 1795223620,
  "count": 33,
  "swaps": [
   {
